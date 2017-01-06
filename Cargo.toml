@@ -1,0 +1,11 @@
+[package]
+name = "pmirror"
+version = "0.1.0"
+authors = ["Taku Fukushima <f.tac.mac@gmail.com>"]
+
+[dependencies]
+interfaces = "0.0.1"
+env_logger = "0.3.5"
+log = "0.3"
+pcap = "0.5.7"
+pnet = "0.15.0"
